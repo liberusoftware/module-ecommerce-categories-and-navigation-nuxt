@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-categories-and-navigation-nuxt",
+  "capabilityKey": "planned:ecommerce:categories-and-navigation",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-categories-and-navigation-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/categories-and-navigation.md",
+  "presentationPlan": "projects/ecommerce/nuxt/categories-and-navigation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
